@@ -5,6 +5,8 @@ from PIL import Image
 from img2pdf import convert
 import re
 
+# 이미지 to pdf
+
 def open_folder():
     global image_folder
     image_folder = filedialog.askdirectory()
