@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox
 import subprocess
 import os
 
-
+# 동영상 다운로드 
 def download_video():
     url = url_entry.get()
     output_dir = output_entry.get()
