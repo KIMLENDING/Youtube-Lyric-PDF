@@ -3,7 +3,7 @@ import cv2
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
-
+# 캡쳐 목적
 def detect_scene_changes(video_path, threshold=10):
     """
     이전 프레임과 현재 프레임의 모양이 다르면 캡쳐합니다.
