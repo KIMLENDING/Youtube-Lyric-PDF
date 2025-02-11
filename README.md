@@ -1,6 +1,6 @@
 일본어 공부하려고 만든 프로그램
 
-1. downlad_video_youtube.py 를 실행시켜 유튜브에서 링크를 글어와서 노래를 다운 받는다
+1. downlad_video_youtube.py 를 실행시켜 유튜브에서 링크를 긁어와서 노래를 다운 받는다
 2. capture_frames.py를 실행시켜 노래의 가사를 캡쳐한다.
  ( "C:\temp\test_save" ) 이 경로로 파일이 저장됨 저장되는 캡쳐 이미지는 "video_name_{ 캡쳐프레임 번호 }.jpg"
 	이제 이미지가 저장되었다.
